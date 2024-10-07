@@ -1,4 +1,5 @@
 a=19383
 b=63782
-c=a+b+d+e
+d=93
+c=a+b+d
 print(c)
